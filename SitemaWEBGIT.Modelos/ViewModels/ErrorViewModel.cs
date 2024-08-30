@@ -1,4 +1,4 @@
-namespace SistemaWEBGIT.Models
+namespace SitemaWEBGIT.Modelos.ViewModels
 {
     public class ErrorViewModel
     {

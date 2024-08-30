@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SistemaWEBGIT.Models;
+using SitemaWEBGIT.Modelos.ViewModels;
 using System.Diagnostics;
 
-namespace SistemaWEBGIT.Controllers
+namespace SistemaWEBGIT.Areas.Inventario.Controllers
 {
+    [Area("Inventario")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

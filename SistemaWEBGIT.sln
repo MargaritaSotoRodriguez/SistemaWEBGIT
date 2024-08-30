@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaWEBGIT", "SistemaWEBGIT\SistemaWEBGIT.csproj", "{709E4D0F-128A-4261-8DA4-BD2D541762EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaWEBGIT", "SistemaWEBGIT\SistemaWEBGIT.csproj", "{709E4D0F-128A-4261-8DA4-BD2D541762EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaWEBGIT.Utilerias", "SistemaWEBGIT.Utilerias\SistemaWEBGIT.Utilerias.csproj", "{CDF08E93-913E-4440-9F01-0187661208E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaWEBGIT.AccesoDatos", "SistemaWEBGIT.AccesoDatos\SistemaWEBGIT.AccesoDatos.csproj", "{43900D77-1F4D-412F-BBA2-8692AF3552D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitemaWEBGIT.Modelos", "SitemaWEBGIT.Modelos\SitemaWEBGIT.Modelos.csproj", "{8E8C016E-9A19-47DF-8C24-050FC1247F8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{709E4D0F-128A-4261-8DA4-BD2D541762EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{709E4D0F-128A-4261-8DA4-BD2D541762EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{709E4D0F-128A-4261-8DA4-BD2D541762EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF08E93-913E-4440-9F01-0187661208E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF08E93-913E-4440-9F01-0187661208E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF08E93-913E-4440-9F01-0187661208E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF08E93-913E-4440-9F01-0187661208E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43900D77-1F4D-412F-BBA2-8692AF3552D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43900D77-1F4D-412F-BBA2-8692AF3552D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43900D77-1F4D-412F-BBA2-8692AF3552D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43900D77-1F4D-412F-BBA2-8692AF3552D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8C016E-9A19-47DF-8C24-050FC1247F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8C016E-9A19-47DF-8C24-050FC1247F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8C016E-9A19-47DF-8C24-050FC1247F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8C016E-9A19-47DF-8C24-050FC1247F8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
